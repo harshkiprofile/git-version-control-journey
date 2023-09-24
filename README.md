@@ -12,7 +12,7 @@
 
 `git merge main`
 
-Resolve any merge conflicts that arises and your feature branch in now updated with latest changes
+Resolve any merge conflicts that arises and your feature branch is now updated with latest changes
 
 
 
