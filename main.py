@@ -1,1 +1,1 @@
-print("this is main dot py")
+print("This is main dot py")
