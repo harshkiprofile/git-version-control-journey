@@ -7,3 +7,7 @@ iamrole:
   AWS::Type::IAM
     role-name: iamrole2
 
+efs:
+  AWS::Type::EFS
+    region: us-east-1
+
