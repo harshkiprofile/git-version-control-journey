@@ -1,0 +1,9 @@
+instance:
+  AWS::Type::EC2
+    ami-id: ami-sas3543blkj15n
+    region: us-east-1
+
+iamrole:
+  AWS::Type::IAM
+    role-name: iamrole2
+
